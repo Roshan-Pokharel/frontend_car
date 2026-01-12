@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "frontend_car",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../OneDrive/New_folder/Node_js/carTintFrontend/dist/assets"
+		}
+	],
+	"settings": {}
+}
